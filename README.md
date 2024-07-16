@@ -1,4 +1,4 @@
-Introduction
+#### **Introduction**
 This repository contains two primary files used in combination to generate and analyze synthetic metabolic data.
 
 Files
